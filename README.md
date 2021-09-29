@@ -1,1 +1,1 @@
-Hey all! I had tried "TO DO-LIST" webpage using HTML5,CSS&JS.
+Hey all! I designed "TO DO-LIST" webpage using HTML5,CSS&JS.
